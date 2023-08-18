@@ -1,5 +1,5 @@
 /*
-Name:Hemang Shankar
+Programmer:Hemang Shankar
 Design Your Own Lab
 */ 
 
